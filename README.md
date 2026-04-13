@@ -25,15 +25,15 @@ Se utiliza la base de datos *Breast Cancer Histopathological Image Classificatio
 
 ### 2. Modelado (Transfer Learning)
  Se han evaluado y comparado arquitecturas pre-entrenadas en ImageNet:
+*  **InceptionV3** 
+*  **ResNet101V2** 
 *  **DenseNet121** 
-*  **ResNet50** 
-*  **EfficientNetB0** 
 
 ### 3. Explicabilidad (XAI)
  Uso de **Grad-CAM++** para generar mapas de calor sobre las muestras histológicas, permitiendo identificar las estructuras celulares y arquitecturas de tejido que el modelo considera relevantes para el diagnóstico.
 
 ## 💻 Tecnologías Utilizadas
-* **Lenguaje**: Python 3.x
+* **Lenguaje**: Python 3.14
 * **Frameworks**: TensorFlow, Keras
 * **Bibliotecas**: Scikit-learn, Numpy, Matplotlib, Seaborn
 * **Entorno**: Google Colab / Google Drive
