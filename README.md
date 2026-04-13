@@ -1,8 +1,7 @@
 # Clasificación de Tumores de Cáncer de Mama con Deep Learning e IA Explicable 🔬
 
 Este repositorio contiene el flujo completo de trabajo para la clasificación automática e interpretable de los cuatro tipos de tumores malignos presentes en el dataset **BreakHis**. El proyecto integra técnicas de ingeniería de datos, aprendizaje por transferencia e interpretabilidad clínica.
-Link descarga a la base de datos BreakHis = [https://drive.google.com/file/d/1ZY3l4rvmLtyxLsXVvl0NiiIxSTjlBvVi/view?usp=drive_link](http://www.inf.ufpr.br/vri/databases/BreaKHis_v1.tar.gz)
-
+Link descarga a la base de datos BreakHis = http://www.inf.ufpr.br/vri/databases/BreaKHis_v1.tar.gz 
 ## 📑 Resumen del Proyecto
 El diagnóstico definitivo del cáncer de mama requiere un análisis histopatológico complejo y especializado. Este sistema busca servir como herramienta de apoyo, proporcionando no solo una clasificación precisa, sino también una explicación visual de las regiones del tejido que fundamentan la decisión del modelo              .
 
